@@ -1,5 +1,21 @@
 # Änderungsprotokoll
 
+## 1.2.0 – 2026-09-27
+
+- **Waffenhaltung komplett neu berechnet:** Ein Kinematik-Modell des Spielerskeletts (kalibriert an
+  Screenshots aus dem Spiel) setzt den Griff jeder Waffe exakt in die Hand – vorher hielt die Hand
+  die Klinge etwa 10 Pixel über dem Griff.
+- **Zweihandwaffen werden mit beiden Händen gehalten:** Die linke Hand liegt per inverser Kinematik
+  am Griff – in jeder Haltung und in jedem Bild jeder Angriffs- und Fähigkeitsanimation.
+- **Eigene Grundstellung je Waffe** nach historischen Vorbildern (Pflug, Vom Tag, Terz,
+  Lanzenwacht …), jeweils in drei Varianten (Mitte/Hoch/Tief), mit passender Körperdrehung und
+  Beinstellung.
+- **Vanilla-Bewegungen neutralisiert:** Minecrafts eigener Schlag, das Armpendeln beim Laufen und das
+  Atmen überlagern die Waffenposen nicht mehr.
+- **Angriffe und Fähigkeiten als Ganzkörper-Animationen** (Arme, Körper, Kopf, Beine) anstelle der
+  Haltung; danach kehrt der Spieler nahtlos in seine Stellung zurück. 11 eigene Fähigkeitsanimationen.
+- Kriegssense mit langer, geschwungener Klinge; Icons skalieren nach Waffengröße.
+
 ## 1.1.0 – 2026-09-27
 
 - Jede der 12 Waffen hat jetzt eine eigene Kombo-Folge an Angriffsanimationen (38 Techniken,
