@@ -1,5 +1,11 @@
 # Änderungsprotokoll
 
+## 1.2.1 – 2026-09-28
+
+- Kalibrierstäbe A/B/C (Kreativ-Inventar → Ausrüstung): zeigen im Spiel die Achsen des
+  Waffenknochens (Rot = x, Grün = y, Blau = z), der Spieler hält dabei den Arm gerade nach vorn.
+  Damit wird die in 1.2.0 falsch herum sitzende Waffenhaltung exakt vermessen.
+
 ## 1.2.0 – 2026-09-27
 
 - **Waffenhaltung komplett neu berechnet:** Ein Kinematik-Modell des Spielerskeletts (kalibriert an
