@@ -1,5 +1,16 @@
 # Änderungsprotokoll
 
+## 1.4.0 – 2026-09-28
+
+- **Neues Kampfbuch:** Beim Benutzen erscheint ein großes 3D-Buch vor dem Spieler und klappt
+  animiert auf. Schlagen blättert weiter, „Zurückblättern“ (Touch-Knopf) blättert zurück – jeweils
+  mit einer umschwingenden Seite. 22 Pergamentseiten mit eigener Pixelschrift: Angriff, Ausdauer,
+  Haltungen, Verteidigung, besondere Angriffe, Bewegung, Steuerung, je eine Seite pro Waffe
+  (Bild, Werte, Fähigkeit, Kombo, Schaden je Stufe, Kampfstil), Duelle und Schmiede.
+- **Touch-Steuerung repariert:** Kampfbuch und alle Waffen haben jetzt einen Benutzen-Knopf
+  („Kampfbuch öffnen“ bzw. „Fähigkeit“) – auf iPad/Handy ließen sich Buch und Fähigkeiten vorher nicht auslösen.
+- Schleichen + Kampfbuch öffnet das Duell-Menü.
+
 ## 1.3.0 – 2026-09-28
 
 - **Waffen richtig herum in der Hand:** Alle Waffen nutzen die im Spiel erprobte Ausrichtung des
