@@ -1,5 +1,14 @@
 # Änderungsprotokoll
 
+## 1.5.1 – 2026-09-29
+
+- **Normale Kombo-Angriffe korrigiert:** Seit der Umstellung auf die Dreizack-Haltung (1.3.0) zeigten
+  viele Klingen im Treffermoment in falsche Richtungen (z. B. Rapier-Stoß steil nach oben). Alle
+  Techniken haben jetzt Spitzenziele für Ausholen und Treffer: Stiche (Dolche, Rapier) gehen gerade
+  zum Gegner, Hiebe (Säbel, Streitkolben, Morgenstern, Langschwert, Axt) holen sichtbar aus und
+  ziehen durch. Zwischenbilder geprüft – keine Sprünge oder Umklappen.
+- Generator meldet, wie viele Spitzenziele erreicht bzw. (bei Zweihand-/Stangenwaffen) unerreichbar sind.
+
 ## 1.5.0 – 2026-09-29
 
 - **Eigener Kampfstil je Waffe:** Block, Aufladen, Kraftschlag und Sturmangriff gibt es jetzt für
