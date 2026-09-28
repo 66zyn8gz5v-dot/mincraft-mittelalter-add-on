@@ -1,5 +1,21 @@
 # Änderungsprotokoll
 
+## 1.3.0 – 2026-09-28
+
+- **Waffen richtig herum in der Hand:** Alle Waffen nutzen die im Spiel erprobte Ausrichtung des
+  Vanilla-Dreizacks, der Griff sitzt in der Hand. Wohin die Klinge zeigt, wird über den Arm eingestellt.
+  Die Arm-Kinematik ist an Mojangs Armbrust-Pose überprüft (beide Hände treffen sich vorn).
+- **Waffe bleibt beim Schlagen in der Hand:** Der Waffenschwung verschiebt die Waffe nicht mehr.
+- **Block** (Schleichen halten): Waffe quer vor dem Körper, Frontaltreffer werden zu 50–60 % abgewehrt
+  (Ausdauerkosten, Äxte/Hämmer zehren doppelt, Deckungsbruch bei leerer Ausdauer).
+- **Kraftschlag:** Im Block lädt sich ein Kraftschlag auf (⚡-Leiste, eigene Lade-Pose); Zuschlagen gibt bis
+  zu +90 % Schaden, Ausfallschritt, starken Rückstoß und durchbricht gegnerische Blöcke.
+- **Sturmangriff** aus dem Sprint: Vorwärtsschub, eigene Animation, +25 % Schaden.
+- **Rollen** statt Seitschritt: Vorwärts-, Rückwärts- und Seitrolle in Laufrichtung.
+- **Körperbewegung je Technik:** Ausfallschritte (Rapier, Speer), Nachsetzen (Schwerter), Zurückziehen
+  (Hakenzug der Hellebarde); schwere Schläge bremsen kurz ab.
+- **Waffengewicht:** Dolche und Rapier machen schneller, Zweihänder und Hammer langsamer.
+
 ## 1.2.1 – 2026-09-28
 
 - Kalibrierstäbe A/B/C (Kreativ-Inventar → Ausrüstung): zeigen im Spiel die Achsen des
