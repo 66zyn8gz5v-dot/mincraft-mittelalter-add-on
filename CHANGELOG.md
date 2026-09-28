@@ -1,5 +1,22 @@
 # Änderungsprotokoll
 
+## 1.5.0 – 2026-09-29
+
+- **Eigener Kampfstil je Waffe:** Block, Aufladen, Kraftschlag und Sturmangriff gibt es jetzt für
+  jede der 12 Waffen einzeln (vorher nur je Griffart) – nach historischen Vorbildern, z. B.
+  Langschwert: Deckung in der *Krone*, Aufladen im *Zornhut*, Kraftschlag *Zornhau*;
+  Rapier: *Quart-Parade* und tiefer Ausfall (*Passata*), Sturm als *Flèche*;
+  Säbel: *Hängeparade*, *Moulinet-Hieb*, *Reiterhieb*; Kriegssense: *Großer Mähschnitt* aus der Hüfte;
+  Doppeldolche: *Kreuzblock* und *Doppelstich*; Speer: *Langer Stoß* und *Lanzenangriff*.
+- **Klingenrichtung exakt gesteuert:** An den Schlüsselmomenten (Ausholen, Treffer, Nachschwung)
+  wird der Arm so berechnet, dass die Klinge wirklich dorthin zeigt (z. B. beim Zornhut nach hinten
+  über die Schulter, beim Treffer nach vorn). Dazwischen wird gleichmäßig überblendet – keine
+  Sprünge mehr. Zweihandwaffen behalten dabei beide Hände am Griff.
+- **Ausfallschritt je Waffe:** Rapier und Speer fallen beim Kraftschlag weit aus, der Hammer kaum;
+  Sturmangriffe schieben je nach Waffe unterschiedlich stark.
+- Anzeige nennt die Technik (z. B. „🛡 Krone“, „⚡ … Zornhau“), Treffer melden ihren Namen.
+- Kampfbuch: Waffenseiten zeigen Block, Kraftschlag und Sturmangriff der Waffe.
+
 ## 1.4.0 – 2026-09-28
 
 - **Neues Kampfbuch:** Beim Benutzen erscheint ein großes 3D-Buch vor dem Spieler und klappt
