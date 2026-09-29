@@ -1,5 +1,15 @@
 # Änderungsprotokoll
 
+## 1.7.0 – 2026-09-30
+
+- **Trefferreaktionen:** Wer getroffen wird, zuckt sichtbar weg – je nach Richtung des Schlags:
+  von vorn lehnt er sich zurück, von hinten knickt er nach vorn, von der Seite neigt und dreht er sich
+  weg. Die Bewegung federt kurz nach und fügt sich über Haltung und Angriff (keine Unterbrechung).
+- **Taumeln bei schweren Treffern:** Kraftschläge und wuchtige Axt-/Hammertreffer lassen den Gegner
+  mit einem Schritt nach hinten taumeln.
+- **Blocktreffer:** Ein geblockter Schlag drückt die Waffe sichtbar gegen den Körper, die Beine fangen ab.
+- Während einer Rolle gibt es keine Reaktion (die Rolle bleibt sauber).
+
 ## 1.6.0 – 2026-09-29
 
 - **Aufladen statt langsamer Schlag:** Die Vanilla-Angriffssperre und der zähe Schwung (bis 0,9 s)
