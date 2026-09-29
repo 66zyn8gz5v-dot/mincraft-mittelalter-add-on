@@ -1,5 +1,17 @@
 # Änderungsprotokoll
 
+## 1.6.0 – 2026-09-29
+
+- **Aufladen statt langsamer Schlag:** Die Vanilla-Angriffssperre und der zähe Schwung (bis 0,9 s)
+  sind weg. Jeder Schlag ist jetzt schnell (0,3–0,5 s); schwere Waffen brauchen dafür länger zum
+  Aufladen. Während die ⚔-Leiste lädt, holt der Spieler sichtbar aus (eigene Spann-Pose je Waffe) und
+  geht genau dann in die Haltung zurück, wenn die Waffe wieder bereit ist. Zu früh schlagen geht weiter,
+  trifft aber schwach.
+- **Abklingzeit auf dem Item:** Nach einer Spezialfähigkeit läuft auf der Waffe im Inventar und in der
+  Schnellleiste der graue Abklingzeit-Balken ab (wie bei Enderperlen). Solange er läuft, reagiert der
+  Benutzen-Knopf der Waffe nicht (auch kein Haltungswechsel).
+- Kraftschlag und Sturmangriff sind ebenfalls schneller.
+
 ## 1.5.1 – 2026-09-29
 
 - **Normale Kombo-Angriffe korrigiert:** Seit der Umstellung auf die Dreizack-Haltung (1.3.0) zeigten
