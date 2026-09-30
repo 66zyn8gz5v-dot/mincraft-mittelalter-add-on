@@ -1,5 +1,16 @@
 # Änderungsprotokoll
 
+## 1.10.0 – 2026-09-30
+
+- **Eigene Kampfklänge** (selbst synthetisiert, 13 Varianten): Klingenklirren beim Block, helles
+  Singen der Klinge bei Parade und Riposte, Luftrauschen bei jedem Schlag (leichte Waffen zischen
+  hell, schwere brummen tief), satter Trefferklang (stumpfe Waffen dumpfer), tiefer Wucht-Schlag bei
+  Kraftschlag und Erdbeben.
+- **Eigene Partikel:** glühende Funken genau zwischen den Kämpfern bei Block und Parade,
+  Blutspritzer bei vollen Klingentreffern und bei Blutung (Tropfen fallen zu Boden), Staubring am
+  Boden bei Kraftschlag und Erdbeben.
+- Kampfbuch: „Neu im Add-on“ um Klänge und Funken ergänzt.
+
 ## 1.9.0 – 2026-09-30
 
 - **Kampfbuch als 3D-Buch zum Aufstellen:** Im Inventar ein flaches Buch – auf einen Block benutzt,
