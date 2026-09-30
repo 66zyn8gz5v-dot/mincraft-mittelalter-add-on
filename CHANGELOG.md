@@ -1,5 +1,14 @@
 # Änderungsprotokoll
 
+## 1.11.0 – 2026-10-01
+
+- **Der Körper läuft mit:** Neue Lauf-Ebene für alle Waffen. Beim Gehen drehen die Schultern gegen
+  die Schritte, die Hüfte wiegt leicht, der Körper federt im Schritt und die Waffe wippt mit (bei
+  Zweihandwaffen bleiben beide Hände am Griff). Im Sprint lehnt sich der Kämpfer nach vorn. Der Kopf
+  gleicht die Bewegung aus, der Blick bleibt ruhig. Leichte Waffen schwingen freier, schwere Waffen
+  federn mehr und drehen weniger. Vorher wirkte der Oberkörper mit Waffe beim Laufen starr.
+- Nach Tod oder Wiedereintritt starten Haltung und Lauf-Ebene sofort neu.
+
 ## 1.10.0 – 2026-09-30
 
 - **Eigene Kampfklänge** (selbst synthetisiert, 13 Varianten): Klingenklirren beim Block, helles
