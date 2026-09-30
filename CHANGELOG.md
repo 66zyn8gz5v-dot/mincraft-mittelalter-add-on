@@ -1,5 +1,20 @@
 # Änderungsprotokoll
 
+## 1.9.0 – 2026-09-30
+
+- **Kampfbuch als 3D-Buch zum Aufstellen:** Im Inventar ein flaches Buch – auf einen Block benutzt,
+  steht es als großes aufgeschlagenes Buch auf einem hölzernen Lesepult (bleibt stehen, jeder kann
+  darin lesen). In die Luft benutzt schwebt es wie bisher vor dir.
+  Neue Steuerung: **Benutzen = weiterblättern** (Touch-Knopf „Weiterblättern“), **Schlagen = zurück**,
+  **Schleichen + Schlagen = zuklappen/aufheben**. Jedes Umblättern ist animiert.
+- Neue Buchseite **„Neu im Add-on“**, Inhaltsverzeichnis und Steuerung aktualisiert.
+- **Neue Kampfleisten:** eigene Pixel-Symbole (Schwert, Ausdauer, Blitz, Schild, Stern) und farbige
+  Leistenstücke statt Textstrichen – Tempo, Ausdauer, Kraftschlag und Fähigkeit auf einen Blick.
+- **Abklingzeit direkt auf dem Item:** Die Waffe trägt die Abklingzeit ihrer Fähigkeit jetzt selbst
+  (`minecraft:cooldown`) – nach dem Benutzen läuft auf dem Item in Schnellleiste und Inventar die
+  weiße Anzeige herunter, wie bei Enderperlen.
+- **Haltung wechseln jetzt mit Schleichen + Springen** (der Benutzen-Knopf gehört ganz der Fähigkeit).
+
 ## 1.8.0 – 2026-09-30
 
 - **Versionsanzeige:** Beim Betreten der Welt meldet der Chat „Verhalten v…“; der Name des Kampfbuchs
