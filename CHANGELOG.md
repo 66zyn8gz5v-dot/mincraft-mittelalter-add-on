@@ -1,5 +1,14 @@
 # Änderungsprotokoll
 
+## 1.8.0 – 2026-09-30
+
+- **Versionsanzeige:** Beim Betreten der Welt meldet der Chat „Verhalten v…“; der Name des Kampfbuchs
+  zeigt „(Bilder v…)“, dazu Paketnamen in den Welteinstellungen, Duell-Menü und Titelseite des Buchs.
+  Stimmen beide Nummern nicht überein oder fehlt die Meldung, ist eine alte Version geladen.
+- **Drehtest für die Waffenhaltung:** Schleichen + Kampfbuch → „Waffenhaltung testen“ schaltet acht
+  Varianten durch (Waffe um den Griff gekippt/gedreht). Die gewählte Variante bleibt gespeichert und gilt
+  sofort für alle Waffen; die passende Nummer wird danach fest eingebaut.
+
 ## 1.7.0 – 2026-09-30
 
 - **Trefferreaktionen:** Wer getroffen wird, zuckt sichtbar weg – je nach Richtung des Schlags:
