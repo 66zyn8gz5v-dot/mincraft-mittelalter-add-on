@@ -1,5 +1,14 @@
 # Änderungsprotokoll
 
+## 1.15.0 – 2026-10-02
+
+- **Kampfstand überarbeitet:** In allen Haltungen stehen die Füße jetzt schulterbreit auseinander,
+  der Oberkörper lehnt leicht vor und der Kopf bleibt auf den Gegner gerichtet – in der tiefen Haltung
+  breiter und tiefer, in der hohen aufrechter.
+- **Kampfbereitschaft im Stand:** Wer mit Waffe stillsteht, atmet sichtbar und verlagert ruhig das
+  Gewicht, die Waffe wiegt leicht mit. Sobald gelaufen wird, übernimmt die Laufbewegung.
+- Die Waffenausrichtung aus 1.14.0 bleibt unverändert, bis Rückmeldung aus dem Spiel vorliegt.
+
 ## 1.14.0 – 2026-10-01
 
 - **Waffenhaltung fest im Modell:** Die Haltedrehung wird nicht mehr per Animation gesetzt, sondern
