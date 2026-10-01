@@ -1,5 +1,17 @@
 # Änderungsprotokoll
 
+## 1.12.0 – 2026-10-01
+
+- **Waffenhaltung neu aufgebaut (Nutzer-Screenshots 01.10.):** Die Waffen saßen weiterhin falsch
+  (Rapier nach oben, Zweihänder und Axt nach unten, Hellebarde quer). Die Auswertung der Bilder hat
+  gezeigt, dass sich die übernommene Dreizack-Ausrichtung nicht zuverlässig vorhersagen lässt.
+  Neu: **natürlicher Faustgriff** – die Klinge kommt vorn aus der Faust (nur eine Drehachse), der Arm
+  bestimmt die Richtung (Arm hängt → Klinge waagerecht nach vorn, Arm vorgestreckt → Klinge oben).
+  Zweihand- und Stangenwaffen: rechte Hand am Griff, linke Hand per Kinematik am Griff bzw. Schaft,
+  Arme möglichst ohne verdrehte Kombinationen.
+- Sollte die Klinge jetzt genau nach hinten zeigen: Duell-Menü → „Waffenhaltung testen“ →
+  Variante 1 dreht alle Waffen auf einmal richtig herum (dann bitte die Nummer melden).
+
 ## 1.11.0 – 2026-10-01
 
 - **Der Körper läuft mit:** Neue Lauf-Ebene für alle Waffen. Beim Gehen drehen die Schultern gegen
