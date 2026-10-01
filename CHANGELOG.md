@@ -1,5 +1,13 @@
 # Änderungsprotokoll
 
+## 1.13.0 – 2026-10-01
+
+- **Ursache der falsch sitzenden Waffen gefunden:** Die Haltedrehung lag auf dem Modellknochen, der an
+  die Hand gebunden ist – diese Drehung überschreibt Minecraft. Alle Screenshots passten genau zu
+  „Waffe ungedreht längs des Arms“ (Rapier nach oben, Axt/Zweihänder nach hinten an der Hüfte).
+  Die Drehung sitzt jetzt auf einem eigenen Unterknochen („halt“) und wirkt damit erstmals im Spiel.
+- Kalibrierstäbe ebenso umgestellt. Ego-Perspektive bleibt unverändert.
+
 ## 1.12.0 – 2026-10-01
 
 - **Waffenhaltung neu aufgebaut (Nutzer-Screenshots 01.10.):** Die Waffen saßen weiterhin falsch
