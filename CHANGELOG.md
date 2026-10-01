@@ -1,5 +1,11 @@
 # Änderungsprotokoll
 
+## 1.14.0 – 2026-10-01
+
+- **Waffenhaltung fest im Modell:** Die Haltedrehung wird nicht mehr per Animation gesetzt, sondern
+  steckt fest in der 3D-Geometrie jeder Waffe – so macht es auch Mojang beim Bogen. Damit wirkt sie
+  im Spiel garantiert (Animationen am Haltepunkt der Hand wurden offenbar ignoriert).
+
 ## 1.13.0 – 2026-10-01
 
 - **Ursache der falsch sitzenden Waffen gefunden:** Die Haltedrehung lag auf dem Modellknochen, der an
