@@ -1,5 +1,15 @@
 # Änderungsprotokoll
 
+## 1.16.0 – 2026-10-03
+
+- **Duelle im Best-of-3-Modus:** Wer zuerst zwei Runden gewinnt, siegt. Eine Runde ist verloren, sobald
+  ein Kämpfer unter 5 Lebenspunkte fällt – kein Tod, keine verlorenen Gegenstände. Zwischen den Runden
+  werden beide geheilt, an ihre Startpunkte gegenüber gesetzt (Blick zueinander) und es gibt einen neuen
+  Countdown mit Rundenanzeige und Spielstand.
+- **Kampfring:** Ein Kreis aus Flammen (Radius 7) markiert die Arena. Wer ihn verlässt, wird
+  zurückgestoßen und gewarnt.
+- Kampfbuch: Duell-Seite aktualisiert.
+
 ## 1.15.0 – 2026-10-02
 
 - **Kampfstand überarbeitet:** In allen Haltungen stehen die Füße jetzt schulterbreit auseinander,
