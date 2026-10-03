@@ -1,5 +1,10 @@
 # Änderungsprotokoll
 
+## 1.17.1 – 2026-10-04
+
+- Korrektur: 1.17.0 wurde nach einem fehlgeschlagenen Neubau (zu lange Duell-Seite im Kampfbuch)
+  unvollständig veröffentlicht. Seite gekürzt, Paket vollständig neu gebaut.
+
 ## 1.17.0 – 2026-10-04
 
 - **Duell mit gleichen Waffen:** Nach der Gegnerwahl lässt sich festlegen, ob mit eigener Ausrüstung
