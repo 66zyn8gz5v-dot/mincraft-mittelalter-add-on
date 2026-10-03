@@ -1,5 +1,12 @@
 # Änderungsprotokoll
 
+## 1.17.0 – 2026-10-04
+
+- **Duell mit gleichen Waffen:** Nach der Gegnerwahl lässt sich festlegen, ob mit eigener Ausrüstung
+  oder mit derselben Waffe gekämpft wird (alle 12 Waffen wählbar, Eisen-Stufe). Beide bekommen die
+  Leihwaffe in die Schnellleiste (direkt ausgewählt); sie lässt sich nicht fallen lassen, bleibt beim
+  Rundenverlust erhalten und wird nach dem Duell wieder eingesammelt.
+
 ## 1.16.0 – 2026-10-03
 
 - **Duelle im Best-of-3-Modus:** Wer zuerst zwei Runden gewinnt, siegt. Eine Runde ist verloren, sobald
