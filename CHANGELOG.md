@@ -1,5 +1,13 @@
 # Änderungsprotokoll
 
+## 1.22.0 – 2026-10-04
+
+- **Übungspuppe neu gepixelt** (eigene 64×64-Textur): gebündelte Strohhalme mit Lücken und
+  ausgefranstem Strohrock, gedrehte Hanfschnüre um den Bauch, Kopf aus Sackleinen (8×8) mit
+  aufgenähten Kreuzstich-Augen, genähtem Mund und Flicken an den Seiten, Strohschopf obendrauf,
+  Strohbündel an den Armenden, rot-weiße Zielscheibe auf der Brust, Holzkreuz-Fuß mit Maserung
+  und Jahresringen. Schnüre liegen leicht über dem Stroh (kein Flackern mehr).
+
 ## 1.21.0 – 2026-10-04
 
 - **Set-Boni für komplette Rüstungen:**
