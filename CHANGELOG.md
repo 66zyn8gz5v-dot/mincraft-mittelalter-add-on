@@ -1,5 +1,36 @@
 # Änderungsprotokoll
 
+## 1.29.0 – 2026-10-04
+
+- **Fünf echte 3D-Rüstungen** (neue Bauteil-Bibliothek `tools/ruestung3d.py`, nach dem Vorbild von
+  Epic Knights und Armor Reimagined 3D). Die Rüstungen sind aus Teilen gebaut statt aufgemalt;
+  darunter liegt Kette, Leder oder Stoff:
+  - **Gambeson** (Wolle, 7 Punkte): gesteppte Haube mit Gesichtsöffnung, Halswulst, Wams mit
+    Gürtel, Beinlinge, Lederschuhe mit Stulpen. Set-Bonus Leichtfuß.
+  - **Bronze-Schuppenpanzer** (Kupfer, 13): Spangenhelm mit Spitze, Stirnband, Nasal und
+    Kettenhaube; Schuppenhemd über grüner Tunika, Schuppen-Beintaschen, Bronzeschienen.
+    Set-Bonus **Schuppenhaut**: keine Blutung.
+  - **Ritterplatte** (Eisenblöcke, 18):
+    - Topfhelm mit Sehschlitz, Atemlöchern und Grat.
+    - Brustplatte mit Grat, Halsberge, Bauchreifen und Lederriemen auf dem Rücken.
+    - Schulterkappen mit zwei Schienen, Ellbogen- und Kniekacheln mit Flügeln.
+    - Eisenschuhe aus Lamellen, darunter Kettengeflecht.
+    - Set-Bonus Bollwerk.
+  - **Paladinrüstung** (Diamant, 20): polierte Platte mit Goldbeschlägen, blauer Wappenrock mit
+    goldenem Kreuz, Umhang, Helm mit Goldkreuz, Kronreif und Helmbusch. Set-Bonus **Segen**:
+    alle 8 Sekunden ein Schub Regeneration.
+  - **Drachenstahl** (über Netherit, 24): schwarzer Stahl mit glühenden Nähten und Sehschlitz,
+    Hörner am Helm, Dornen auf Helm und Schultern, Drachenschuppen. Herstellung am
+    Schmiedetisch aus Paladinteil + Netherit-Barren + Netherit-Aufwertung. Set-Bonus
+    **Drachenblut**: zwei Herzen mehr und Feuerschutz.
+  - Jedes Set wehrt Schnitt, Stich und Wucht anders ab.
+- Die Ritterplatte hat jetzt 18 statt 20 Rüstungspunkte (Paladin 20 und Drachenstahl 24 liegen
+  darüber).
+- **Rüstkammer:** Die Mittelalter-Pixelschmiede heißt jetzt „Rüstkammer“, damit sie nicht mit der
+  Pixelschmiede des Sternenpakets verwechselt wird. Sie zeigt alle fünf Rüstungen auf hölzernen
+  Gliederpuppen.
+- Kampfbuch: Rüstungstabelle auf „Die Schmiede“, Neuigkeiten aktualisiert.
+
 ## 1.28.0 – 2026-10-04
 
 - **Langbogen neu gestaltet** nach dem Vorbild des Nutzers:
