@@ -1,5 +1,33 @@
 # Änderungsprotokoll
 
+## 1.35.0 – 2026-10-05
+
+- **Alle zwölf Waffen neu im Minecraft-Stil**, Vorbild ist das Schwert auf dem Ritterbild des
+  Nutzers.
+- **Neuer Waffenbaukasten** `tools/waffen_bau.py`:
+  - Jede Waffe wird als Pixelbild gezeichnet: oben die Spitze, unten der Knauf, ein Zeichen je
+    Pixel für Werkstoff und Tiefe.
+  - Daraus entsteht der 3D-Körper in ganzen Pixeln, ohne halbe Pixel und ohne Treppen.
+  - Tiefen: Schneiden sind einen Pixel dünn, der Mittelgrat zwei, Parierstange und Knauf drei.
+    Hammer- und Morgensternköpfe sind vier Pixel dick, die Rapierglocke fünf.
+  - Flansche des Streitkolbens und Stacheln des Morgensterns stehen in alle vier Richtungen ab.
+  - Vorderseite, Rückseite und Kanten zeigen dasselbe Pixelbild, wie bei Blockbench-Modellen aus
+    Pixel-Art.
+- **Schattierung:**
+  - Licht kommt von oben links.
+  - Klingen haben eine helle Lichtkante, einen glänzenden Grat, eine dunkle Schattenkante und
+    fleckiges Metall.
+  - Griffe haben eine Lederwicklung, Schäfte eine Holzmaserung.
+  - Tüllen haben Nieten, Ketten einzelne Glieder.
+  - Im Knauf von Schwertern und Rapier sitzt ein Edelstein; seine Farbe hängt von der Stufe ab.
+- **Inventarbilder** entstehen aus denselben Pixelbildern: diagonal wie bei Vanilla, mit dunkler
+  Kontur und automatisch eingepasst.
+- **Buckler neu:**
+  - Gerade Scheibe aus Holzplanken (beim Eisen-Buckler Stahl).
+  - Vorstehender Eisenrand, vier Nieten und ein Buckel.
+- Längen, Griffpunkte und Seiten der Klingen bleiben gleich, die Haltungen passen also weiter.
+- `waffen3d.py` entfernt.
+
 ## 1.34.0 – 2026-10-05
 
 - **Neuer Texturhelfer** `tools/texturhelfer.py` für die Rüstungen. Er folgt Regeln aus
