@@ -1,5 +1,15 @@
 # Änderungsprotokoll
 
+## 1.18.0 – 2026-10-04
+
+- **Rundschild (Buckler)** aus Holz oder Eisen für die Nebenhand (Vorbild: Fechtbuch I.33). Zusammen mit
+  einer Einhandwaffe: Paradefenster 60 % länger, Block wehrt 15 % mehr ab, parierte Gegner taumeln
+  länger. Gewölbte Scheibe mit Schildbuckel, haltbar und reparierbar; die Kampfanzeige zeigt ein
+  Schild-Symbol. Rezept: 4 Bretter (bzw. Eisenbarren) im Kreuz um einen Eisen- (bzw. Gold-)Barren.
+- **Hiebspur:** Finisher und Kraftschläge erzeugen einen hellen Strichring um das Ziel.
+- **Rangliste:** Duell-Menü → „Rangliste“ zeigt die zehn besten Duellanten der Welt (Siege/Niederlagen).
+- Kampfbuch: Rundschild auf den Seiten „Verteidigung“ und „Neu im Add-on“.
+
 ## 1.17.1 – 2026-10-04
 
 - Korrektur: 1.17.0 wurde nach einem fehlgeschlagenen Neubau (zu lange Duell-Seite im Kampfbuch)
