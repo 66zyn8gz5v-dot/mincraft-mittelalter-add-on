@@ -1,5 +1,19 @@
 # Änderungsprotokoll
 
+## 1.31.0 – 2026-10-04
+
+- **Alle acht Rüstungen im Minecraft-Stil neu gebaut** (Nutzer: „zu realistisch“). Ich habe nach dem
+  Minecraft-Stil-Leitfaden von Blockbench gearbeitet, an den sich auch Minecraft Dungeons hält:
+  - Ein Texturpixel ist ein Modellpixel (16 je Block) statt doppelter Auflösung.
+  - Keine Teile dünner als 1 Pixel, keine krummen Größen.
+  - Grundform wie Mojangs Eisenrüstung (um 1 Pixel aufgeblähte Kästen, Beinzeug 0,5), dazu nur
+    wenige kräftige Zusatzkästen: Schulterstücke, Kamm, Busch, Kegel, Hörner, Ohren, Schnauze,
+    Kragen, Zipfel, Umhang, Knie, Flügel als flache Ebene.
+  - Details als Pixel-Textur: Mittelton, ein Licht- und ein Schattenton, Licht von oben links,
+    kein Rauschen.
+  - Neues Werkzeug `tools/ruestung_mc.py` ersetzt `ruestung3d.py`.
+- Werte, Rezepte und Set-Boni bleiben gleich.
+
 ## 1.30.0 – 2026-10-04
 
 - **Drei neue Rüstungen im Stil von Minecraft Dungeons** (Vorbild vom Nutzer): wuchtige, klare
