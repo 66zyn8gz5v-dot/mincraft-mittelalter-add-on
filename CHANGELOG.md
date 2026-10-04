@@ -1,5 +1,15 @@
 # Änderungsprotokoll
 
+## 1.20.0 – 2026-10-04
+
+- **Übungspuppe** zum Trainieren ohne zweiten Spieler: Strohpuppe auf einem Pfahl mit Zielscheibe,
+  Querbalken und Sackkopf. Item auf einen Block benutzen → die Puppe steht dir zugewandt.
+  Jeder Treffer lässt sie gedämpft nachwackeln; über dem Kopf stehen Schaden des letzten Treffers,
+  Gesamtschaden der Serie, Trefferzahl sowie Kombo, Technik bzw. „Kraftschlag“. Nach 3 Sekunden ohne
+  Treffer heilt sie sich und setzt die Anzeige zurück. Schleichen + Schlagen baut sie ab (Item zurück).
+  Rezept: Wolle oben, Heuballen in der Mitte zwischen zwei Stöcken, Stock unten.
+- Kampfbuch: Übungspuppe auf „Neu im Add-on“ und „Die Schmiede“.
+
 ## 1.19.1 – 2026-10-04
 
 - Korrektur: Buchseite „Neu im Add-on“ war zu lang, der Neubau von 1.19.0 brach ab; Repo-Dateien
