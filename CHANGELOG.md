@@ -1,5 +1,16 @@
 # Änderungsprotokoll
 
+## 1.19.0 – 2026-10-04
+
+- **Zwei mittelalterliche Rüstungssets** (je Helm/Haube, Brust, Beine, Stiefel), am Körper mit
+  Mojangs Rüstungsmodell dargestellt:
+  - **Gambeson** (aus Wolle): gesteppter Stoff, wenig Schutz, aber Ausdauer kehrt bis zu 30 % schneller
+    zurück – ideal für flinke Kämpfer.
+  - **Plattenrüstung** (aus Eisenblöcken): polierter Stahl mit Goldnieten und Sehschlitz im Ritterhelm,
+    hoher Schutz, aber bis zu 8 % langsamer und 25 % langsamere Ausdauererholung.
+  - Die Wirkung gilt anteilig je getragenem Teil; Rüstungen sind verzauberbar und reparierbar.
+- Kampfbuch: Rüstungen auf „Die Schmiede“ und „Neu im Add-on“.
+
 ## 1.18.0 – 2026-10-04
 
 - **Rundschild (Buckler)** aus Holz oder Eisen für die Nebenhand (Vorbild: Fechtbuch I.33). Zusammen mit
