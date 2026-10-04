@@ -1,5 +1,26 @@
 # Änderungsprotokoll
 
+## 1.26.0 – 2026-10-04
+
+- **Langbogen (neu):** Eibenstab mit Lederwicklung und Hornspitzen als 3D-Modell. Beim Spannen biegen
+  sich die Wurfarme in vier Stufen, die Sehne wird zurückgezogen und ein Pfeil liegt auf. Der Spieler
+  nimmt die Ziehhaltung ein (rechts hält, links zieht). Pfeile fliegen 30 % schneller und weiter und
+  treffen damit härter. Rezept: wie ein Bogen, links in der Mitte Leder.
+- **Schadensarten:** Schnitt, Stich und Wucht wirken unterschiedlich gegen Rüstung.
+  - Plattenrüstung lenkt Schnitte ab (bis −20 %), Wucht dröhnt durch (bis +20 %).
+  - Gambeson dämpft Wucht (−15 %), Stiche gehen durch (+15 %).
+  - Jedes getragene Teil zählt ein Viertel; Hinweise wie „Klinge gleitet ab“ oder „Wucht durch die
+    Rüstung!“ zeigen es beim Angreifer an.
+- **Bessere Angriffsanimationen** (für alle Waffen, ohne die Techniken umzuschreiben):
+  - Längeres Ausholen, schnellerer Schlag.
+  - Nachschwung über den Treffer hinaus.
+  - Das vordere Bein geht mit, der Oberkörper lehnt sich in den Schlag, beim Ausholen leicht zurück.
+  - Der Kopf bleibt auf den Gegner gerichtet.
+- **Säbel:** deutlich gerader, nur noch zur Spitze hin leicht gebogen.
+- **Kampfbuch:** neue Neuigkeiten-Seite; die Waffenseiten zeigen die Schadensart, die Schmiede den
+  Langbogen.
+- **Pixelschmiede:** Langbogen mit allen vier Spannstufen in der 3D-Ansicht.
+
 ## 1.25.0 – 2026-10-04
 
 - **Neues Bausystem für die 3D-Waffen:** Klingen und Köpfe kommen weiter aus den Umrissen.
