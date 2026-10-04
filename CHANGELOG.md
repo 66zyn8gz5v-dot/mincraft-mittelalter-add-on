@@ -1,5 +1,22 @@
 # Änderungsprotokoll
 
+## 1.30.0 – 2026-10-04
+
+- **Drei neue Rüstungen im Stil von Minecraft Dungeons** (Vorbild vom Nutzer): wuchtige, klare
+  Formen mit großen Schulterstücken, Kapuzen, Fellkragen und Gürteln mit Schnallen.
+  - **Wolfsrüstung** (Kaninchenfell, 11 Punkte): Wolfskopf als Kapuze mit Schnauze, Zähnen, Ohren
+    und gelben Augen, dicker weißer Fellkragen, Fell-Schulterstücke, Lederweste mit Fellstreifen,
+    Fellstiefel. Set-Bonus **Rudel**: Schnelligkeit.
+  - **Meuchlerrüstung** (Phantomhaut, 12): schwarze Kapuze mit Zipfel, rote Gesichtsmaske,
+    Lederwams mit gekreuzten Gurten, rote Schärpe, Armschienen, gewickelte Stiefel. Set-Bonus
+    **Schatten**: Rückenstiche 30 % stärker.
+  - **Heldenrüstung** (Smaragde, 19): silberweiße Platte, Flügelhelm mit T-Visier und goldenem
+    Kamm, wuchtige Schulterplatten mit Goldrand und blauem Stoff, Goldgürtel mit Emblem, blaue
+    Beintaschen. Set-Bonus **Heldenmut**: bei 3 Herzen oder weniger 6 Sekunden Stärke und
+    Widerstand (höchstens alle 60 Sekunden).
+- Bauteil-Bibliothek: neue Werkstoffe Fell und Federn; Muster für Visier, gekreuzte Gurte und
+  Wickelstiefel. Stoff und Fell wirken ruhiger und flächiger.
+
 ## 1.29.0 – 2026-10-04
 
 - **Fünf echte 3D-Rüstungen** (neue Bauteil-Bibliothek `tools/ruestung3d.py`, nach dem Vorbild von
