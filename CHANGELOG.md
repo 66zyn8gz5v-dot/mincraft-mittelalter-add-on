@@ -1,5 +1,28 @@
 # Änderungsprotokoll
 
+## 1.34.0 – 2026-10-05
+
+- **Neuer Texturhelfer** `tools/texturhelfer.py` für die Rüstungen. Er folgt Regeln aus
+  Pixel-Art-Anleitungen:
+  - Fleckiges Metall aus Flecken von 2–4 Pixeln statt einzelner Sprenkel, wie bei Mojangs Eisen.
+  - Fugen und Löcher werfen Schatten: Die Kante unter einem Sehschlitz fängt Licht, die Kante
+    darüber liegt im Schatten.
+  - Wo Platte auf Leder oder Stoff trifft, entsteht eine dunkle Fuge, darunter ein Schlagschatten.
+  - Farbverläufe mit Farbtonverschiebung (Schatten kühler, Lichter wärmer) über `rampe()`.
+- **Mehr 3D-Teile an allen Rüstungen:**
+  - **Schultern:** gestuft aus Kappe, großer Hauptplatte und einer schmaleren Lamelle darunter.
+  - **Helme:**
+    - Ritter: Visier mit Scharnierknöpfen.
+    - Ritter und Paladin: Grat über den Scheitel.
+    - Bronze: Nasal.
+    - Drachenstahl: Hörner.
+    - Wolf: Nase an der Schnauze.
+  - **Rumpf:** erhabene Brustplatte beim Ritter; Gürtel mit vorstehender Schnalle.
+  - **Arme:** ausgestellte Handschuh-Stulpen, Ellbogenkacheln.
+  - **Beine:** Beintaschen über den Oberschenkeln beim Ritter und Paladin.
+  - **Stiefel:** Stiefelränder.
+- Größerer, gezackter Helmbusch beim Ritter. Der Drachenstahl hat jetzt einen glatten Rücken.
+
 ## 1.33.0 – 2026-10-05
 
 - **Rüstungen komplett neu** nach den Stil-Vorlagen des Nutzers. Alle bisherigen Rüstungs-Designs
