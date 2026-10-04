@@ -1,5 +1,24 @@
 # Änderungsprotokoll
 
+## 1.24.0 – 2026-10-04
+
+- **Echte 3D-Waffen** (neues Werkzeug `tools/waffen3d.py`), angelehnt an die 3D-Waffen
+  bekannter Bedrock-Add-ons. Statt einer ein Pixel dicken Platte:
+  - **Schwerter, Dolche, Säbel, Speer:** dünne helle Schneiden, Fläche und dicker Mittelgrat.
+  - **Rapier:** Klinge mit Rautenquerschnitt.
+  - **Streitaxt, Hellebarde, Kriegssense:** Blätter laufen keilförmig vom Schaft zur Schneide zu.
+  - **Kriegshammer:** Kopf als massiver Block.
+  - **Streitkolben:** Flansche rundum, auch nach vorn und hinten.
+  - **Morgenstern:** runde Kugel mit Stacheln in alle Richtungen, Kettenglieder abwechselnd
+    quer und längs.
+  - **Griffe und Schäfte:** vierkantig, Griffe mit Lederwicklung; Knäufe und Glocken rund,
+    Parierstangen kräftig.
+  - **Gleiche Maße:** Umrisse, Längen und Griffpunkt bleiben, die Haltungen passen weiter.
+  - **Texturen:** jede Würfelseite einzeln bemalt (Schneiden hell, Holzmaserung, Nieten).
+- **Buckler flach:** keine Wölbung mehr, der Buckel sitzt nur noch knapp vor der Fläche.
+- **Pixelschmiede:** zeigt die neuen 3D-Modelle. Die flachen „Waffenmodelle“ sind aus der
+  Sammlung entfernt, weil die Modelltexturen jetzt Atlanten sind.
+
 ## 1.23.0 – 2026-10-04
 
 - **Mittelalter-Pixelschmiede** (Artefakt: https://claude.ai/artifact/8ygq7C3QmzWtn4S8NthD6E), gebaut
