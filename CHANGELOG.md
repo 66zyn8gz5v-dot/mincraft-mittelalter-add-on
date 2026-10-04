@@ -1,5 +1,13 @@
 # Änderungsprotokoll
 
+## 1.27.0 – 2026-10-04
+
+- **Klingenkreuzen:** Schlagen zwei Kämpfer fast gleichzeitig (innerhalb von 4 Ticks) und schauen
+  sich an, prallen die Waffen aufeinander. Funken sprühen, es klirrt, beide werden zurückgestoßen
+  und verlieren etwas Ausdauer, aber keiner nimmt Schaden, auch der Gegenschlag nicht. Danach gibt
+  es eine kurze Sperre, damit nicht jeder Schlag zum Kreuzen wird.
+- Kampfbuch: Klingenkreuzen auf „Neu im Add-on“.
+
 ## 1.26.0 – 2026-10-04
 
 - **Langbogen (neu):** Eibenstab mit Lederwicklung und Hornspitzen als 3D-Modell. Beim Spannen biegen
