@@ -1,5 +1,15 @@
 # Änderungsprotokoll
 
+## 1.28.0 – 2026-10-04
+
+- **Langbogen neu gestaltet** nach dem Vorbild des Nutzers:
+  - Wuchtiger, knochenweißer Bogen aus dicken, kantigen Gliedern, die zu den Enden knickartig
+    zum Schützen abbiegen, mit Hakenspitzen.
+  - Braunes Mäandermuster (Rahmen mit eingehaktem Strich) auf allen Flächen.
+  - Dunkelrot gewickelter Griff mit hellen Kappen; Pfeil mit rotem Schaft und weißer Befiederung.
+  - Textur in vierfacher Auflösung, damit die Linien fein bleiben.
+  - Auch das Inventarbild ist jetzt knochenweiß mit rotem Griff.
+
 ## 1.27.0 – 2026-10-04
 
 - **Klingenkreuzen:** Schlagen zwei Kämpfer fast gleichzeitig (innerhalb von 4 Ticks) und schauen
