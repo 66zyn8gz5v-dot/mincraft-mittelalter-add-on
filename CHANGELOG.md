@@ -1,5 +1,22 @@
 # Änderungsprotokoll
 
+## 1.25.0 – 2026-10-04
+
+- **Neues Bausystem für die 3D-Waffen:** Klingen und Köpfe kommen weiter aus den Umrissen.
+  Griff, Knauf, Parierstange und Beschläge sind jetzt eigene Bauteile, gebaut wie bei
+  handgemachten Blockbench-Waffen.
+  - **Griffe:** dünner Lederkern mit flachen Wicklungsbändern, Metallzwingen an den Enden;
+    der Zweihänder hat eine Mittelzwinge und eine lederbezogene Fehlschärfe für die zweite Hand.
+  - **Knäufe:** Scheibenknauf (Langschwert), Birnenknauf (Zweihänder), Kugelknauf
+    (Dolch, Rapier, Streitkolben), Kappen an Stangen- und Schlagwaffen.
+  - **Parierstangen:** dicker Mittelblock, schlanke Arme, Enden mit Knöpfen, aufgebogen oder
+    schwer geneigt, Lasche auf der Klinge.
+  - **Handschutz:** Rapier mit Glocke, Drahtwicklung und Bügel; Säbel mit Bügel (gedrehte Segmente).
+  - **Beschläge:** eiserne Tüllen mit Schaftfedern an Axt, Hammer, Hellebarde, Speer und Sense;
+    echte Kettenglieder am Morgenstern; Quergriff an der Kriegssense; Schäfte schlanker
+    (1,3–1,5 statt 2).
+- **Hellebarde und Speer:** größere Köpfe (Beil, Haken und Blattspitze); die Länge bleibt gleich.
+
 ## 1.24.0 – 2026-10-04
 
 - **Echte 3D-Waffen** (neues Werkzeug `tools/waffen3d.py`), angelehnt an die 3D-Waffen
