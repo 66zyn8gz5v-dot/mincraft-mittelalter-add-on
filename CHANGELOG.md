@@ -1,5 +1,19 @@
 # Änderungsprotokoll
 
+## 1.32.0 – 2026-10-04
+
+- **Rüstungen mit mehr Tiefe** (Nutzerwunsch, Vorbild AdventureCraft): viele kleine 3D-Teile, die in
+  Stufen je einen Pixel vorstehen, statt einer glatten Hülle – weiter im 1-Pixel-Raster:
+  - **Helme:** vorstehende Visiere (Sehschlitz, T-Visier beim Held), Nackenschutz, Stirnreifen
+    (Paladin, Bronze), Wangenschutz und Nasal (Bronze), glühende Stirnleiste und Rückenstacheln
+    (Drache), Halswulst (Gambeson), Nackenfell (Wolf), Kapuzenkrempe (Meuchler).
+  - **Rumpf:** aufgesetzte Brust- und Rückenplatte (beim Paladin als Wappenrock), Halsberge,
+    vorstehender Gürtel mit Schnalle, Beintaschen, Schuppenrock, Gürteltaschen, beim Meuchler ein
+    Dolch schräg auf dem Rücken.
+  - **Arme:** zweite Schulterlage, Ellbogenkacheln, Handschuh-Stulpen (Fellringe beim Wolf).
+  - **Beine und Füße:** Oberschenkelplatten, Schuppen-Beintaschen, Fellwickel, Beintaschen;
+    Stiefelstulpen und Zehenkappen bei allen Rüstungen.
+
 ## 1.31.0 – 2026-10-04
 
 - **Alle acht Rüstungen im Minecraft-Stil neu gebaut** (Nutzer: „zu realistisch“). Ich habe nach dem
