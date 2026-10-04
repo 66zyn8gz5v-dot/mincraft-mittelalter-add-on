@@ -1,5 +1,19 @@
 # Änderungsprotokoll
 
+## 1.23.0 – 2026-10-04
+
+- **Mittelalter-Pixelschmiede** (Artefakt: https://claude.ai/artifact/8ygq7C3QmzWtn4S8NthD6E), gebaut
+  nach dem Vorbild der Pixelschmiede des Sternenpakets:
+  - **Modelle:** Übungspuppe (mit „Treffer“-Wackeln), alle 12 Waffen mit Umschalter Eisen/Gold/
+    Diamant/Netherit, Buckler (Holz/Eisen) und ein Rüstungsständer (Gambeson/Plattenrüstung) in 3D,
+    drehbar, mit Steckbrief (Schaden je Stufe, Fähigkeit, Passiv, Set-Bonus …).
+  - **Sammlung:** alle 79 Bilder des Add-ons zum Weitermalen: Inventarbilder, Waffenmodelle,
+    Buckler, Rüstungshäute, Kampfbuch und die Puppen-Haut.
+  - **Farben:** die Palette des Add-ons (Stufenfarben, Griff/Holz/Kette, Stroh, Gambeson, Platte,
+    Buckler).
+  - Erzeugt von `tools/pixelschmiede.py` direkt aus dem Ressourcenpaket.
+- Übungspuppe: Stroh mit wenigen festen Helligkeitsstufen statt Rauschen (26 statt 199 Farben).
+
 ## 1.22.0 – 2026-10-04
 
 - **Übungspuppe neu gepixelt** (eigene 64×64-Textur): gebündelte Strohhalme mit Lücken und
