@@ -1,5 +1,21 @@
 # Änderungsprotokoll
 
+## 1.36.0 – 2026-10-05
+
+- **Waffen mit Tricks aus fremden 3D-Waffen.** Angesehen wurden zwei offene Projekte, kopiert wurde
+  nichts:
+  - „Mace 3D“ für Bedrock (Nogard)
+  - freie Blockbench-Modelle von FrenchKrab (CC BY 4.0)
+- **Gedrehte Zusatzteile statt Pixeltreppen** (um 22,5°/45° gedrehte Würfel wie bei handgebauten
+  Blockbench-Waffen):
+  - Langschwert und Zweihänder: Enden der Parierstange zur Klinge hin geneigt.
+  - Morgenstern: acht Diagonalstacheln, vier in der Bildebene und vier nach vorn und hinten.
+  - Hellebarde: geschwungener Haken aus zwei Gliedern.
+  - Auch die Inventarbilder zeigen die neuen Teile.
+- **Heller Schneidenrand** rund um jede Klinge mit dunkler Hohlkehle in der Mitte. Die Schneide hebt
+  sich so deutlich ab; an Tülle und Beschlag liegt eine dunkle Fuge.
+- **Kein Durchbluten an den Kanten:** Alle Texturfelder sind minimal eingezogen (0,016 Pixel).
+
 ## 1.35.0 – 2026-10-05
 
 - **Alle zwölf Waffen neu im Minecraft-Stil**, Vorbild ist das Schwert auf dem Ritterbild des
