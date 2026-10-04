@@ -1,5 +1,11 @@
 # Änderungsprotokoll
 
+## 1.19.1 – 2026-10-04
+
+- Korrektur: Buchseite „Neu im Add-on“ war zu lang, der Neubau von 1.19.0 brach ab; Repo-Dateien
+  waren unvollständig (die veröffentlichten Pakete waren vollständig). Neues Veröffentlichungsskript
+  `tools/veroeffentlichen.sh` bricht bei jedem Fehler ab.
+
 ## 1.19.0 – 2026-10-04
 
 - **Zwei mittelalterliche Rüstungssets** (je Helm/Haube, Brust, Beine, Stiefel), am Körper mit
