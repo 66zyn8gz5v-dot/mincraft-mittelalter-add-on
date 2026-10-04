@@ -1,5 +1,14 @@
 # Änderungsprotokoll
 
+## 1.21.0 – 2026-10-04
+
+- **Set-Boni für komplette Rüstungen:**
+  - **Bollwerk** (alle 4 Teile Plattenrüstung): Blocken kostet 30 % weniger Ausdauer, gegnerischer
+    Rückstoß wirkt nur noch zu 30 % (eigene Rollen und Ausfallschritte bleiben unverändert).
+  - **Leichtfuß** (alle 4 Teile Gambeson): Rollen kosten 30 % weniger Ausdauer und sind schneller
+    wieder bereit.
+- Kampfbuch: Set-Boni auf „Die Schmiede“.
+
 ## 1.20.0 – 2026-10-04
 
 - **Übungspuppe** zum Trainieren ohne zweiten Spieler: Strohpuppe auf einem Pfahl mit Zielscheibe,
