@@ -1,5 +1,28 @@
 # Änderungsprotokoll
 
+## 1.33.0 – 2026-10-05
+
+- **Rüstungen komplett neu** nach den Stil-Vorlagen des Nutzers. Alle bisherigen Rüstungs-Designs
+  sind verworfen.
+- **Neuer Rüstungsbaukasten** `tools/ruestung_bau.py`:
+  - Jede Fläche wird als Zeichenbild beschrieben; jedes Zeichen steht für Werkstoff und Helligkeit
+    (Platte, Leder, Stoff, Zier, Untergewand, Schlitz).
+  - Jede Rüstung hat ihre eigene Farbpalette, sodass dieselbe Vorlage in Weiß-Blau oder Gold-Blau
+    erscheinen kann.
+  - Metall bekommt eine feste Körnung wie Mojangs Eisen- und Goldrüstung.
+  - Grundform wie die normale Rüstung, dazu wenige kräftige Zusatzteile.
+- **Die acht Rüstungen:**
+  - **Ritterplatte:** weißer Ritter mit vorstehendem Gitter-Visier, rotem Helmbusch, rotem Umhang,
+    braunen Lederhandschuhen und schwarzem Untergewand.
+  - **Paladin:** weiß-blau mit T-Visier und blauer Stoffbahn.
+  - **Heldenrüstung:** gold-blau mit korinthischem Helm, Wangenschutz und blauem Kamm.
+  - **Drachenstahl:** dunkel mit Schädelhelm, Zacken, Rippenpanzer und weinrotem Stoff.
+  - **Bronze-Schuppen:** Lederwams mit Bronzeplatten, Gitterhelm mit Zacken.
+  - **Gambeson:** gesteppt mit Haube.
+  - **Wolf:** Wolfskopf mit Schnauze und Ohren, Fellkragen und Lederweste.
+  - **Meuchler:** Kapuze mit roter Maske, gekreuzte Gurte, rote Schärpe.
+- Werte, Rezepte und Set-Boni bleiben gleich.
+
 ## 1.32.0 – 2026-10-04
 
 - **Rüstungen mit mehr Tiefe** (Nutzerwunsch, Vorbild AdventureCraft): viele kleine 3D-Teile, die in
