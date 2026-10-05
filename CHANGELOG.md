@@ -1,5 +1,17 @@
 # Änderungsprotokoll
 
+## 1.37.0 – 2026-10-06
+
+- **Beide Hände am Griff:** Bei Streitaxt und Kriegshammer griff die linke Hand in der Kampfhaltung
+  unterhalb des Schaftendes ins Leere. Beide haben jetzt einen langen Schaft: Holz, eine zweite
+  Lederwicklung für die linke Hand und darunter die Endkappe. Rechte Hand, Winkel und Haltungen
+  bleiben unverändert.
+- **Lederwicklung bei Hellebarde und Speer** dort, wo die linke Hand den Schaft hält.
+- **Haltungsvorschau mit den echten 3D-Modellen:** `vorschau_blatt.py` zeichnet jetzt die Würfel aus
+  `waffen_bau` statt der alten 2D-Formen. Damit ist der Fehler aufgefallen.
+- **Neuer Test:** Bei jeder Zweihand- und Stangenwaffe muss die linke Hand auf einem Teil des Modells
+  liegen.
+
 ## 1.36.0 – 2026-10-05
 
 - **Waffen mit Tricks aus fremden 3D-Waffen.** Angesehen wurden zwei offene Projekte, kopiert wurde
