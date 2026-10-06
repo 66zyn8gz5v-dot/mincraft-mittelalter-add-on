@@ -1,5 +1,16 @@
 # Änderungsprotokoll
 
+## 1.38.0 – 2026-10-07
+
+- **Säbel-Block neu: Quinte (Kopfparade).** Die Hand geht hoch über den Kopf, die Klinge liegt quer
+  darüber.
+  - Die bisherige Hängeparade (Spitze nach unten) lässt sich mit dem festen Faustgriff nicht
+    darstellen, weil es kein Handgelenk gibt.
+  - Um die Spitze trotzdem nach unten zu bringen, hatte der Löser den Arm nach hinten geschwungen.
+    Die Klinge verschwand dabei hinter dem Körper, und der Block sah nicht nach Block aus.
+- Alle Block- und Ladeposen wurden mit den echten 3D-Modellen geprüft: Jede Spitzenrichtung wird
+  erreicht, und keine Klinge steckt mehr im Körper.
+
 ## 1.37.0 – 2026-10-06
 
 - **Beide Hände am Griff:** Bei Streitaxt und Kriegshammer griff die linke Hand in der Kampfhaltung
