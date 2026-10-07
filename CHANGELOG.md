@@ -1,5 +1,20 @@
 # Änderungsprotokoll
 
+## 1.39.0 – 2026-10-08
+
+- **Saubere Angriffe: weniger Waffen im eigenen Körper.** Ein neuer Prüfer
+  (`tools/durchdringung.py`) zählt für jede Haltung, jeden Block, jede Ladepose und jedes
+  Angriffs-Schlüsselbild, wie viele Waffenpixel in Kopf oder Rumpf stecken. Damit wurden die
+  schlimmsten Fälle behoben:
+  - **Kriegssense „Todeskreis“:** Die Klinge steckte während der ganzen Drehung im Rumpf. Jetzt ist
+    der Arm seitlich ausgestellt, und die Klinge fegt flach um den Körper.
+  - **Kriegshammer „Aufwärtsschlag“:** Beim Ausholen ging der Hammer durch Kopf und Rumpf. Jetzt
+    holt er seitlich aus.
+  - **Hellebarde „Hakenzug“:** Der Zug läuft neben dem Körper vorbei statt durch ihn hindurch.
+  - **Speer „Hoher Stoß“:** Beim Ausholen ging das Schaftende nicht mehr durch den Kopf.
+  - Die neuen Armstellungen wurden gesucht: kleinste Änderung ohne Durchdringung.
+- Restliche Fälle insgesamt: 114 → 108, vor allem kurze Momente beim Ausholen über dem Kopf.
+
 ## 1.38.0 – 2026-10-07
 
 - **Säbel-Block neu: Quinte (Kopfparade).** Die Hand geht hoch über den Kopf, die Klinge liegt quer
