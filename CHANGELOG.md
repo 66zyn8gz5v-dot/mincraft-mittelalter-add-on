@@ -1,5 +1,18 @@
 # Änderungsprotokoll
 
+## 1.40.0 – 2026-10-09
+
+- **Weniger Waffen im eigenen Körper, Teil 2.** Geprüft mit `tools/durchdringung.py`: Waffenpixel in
+  Kopf oder Rumpf über alle Haltungen, Blöcke, Ladeposen und Angriffe: 712 → 556, Fälle: 108 → 98.
+  - **Zweihänder „Breiter Schwung“:** Die Klinge stand beim Ausholen und Durchschwingen senkrecht
+    durch den Kopf. Jetzt holt er weiter seitlich aus und schwingt flach von rechts nach links durch.
+  - **Streitaxt „Hakenhieb“:** Ausholen mit leicht gesenktem Axtkopf statt durch den eigenen Kopf.
+  - **Kriegshammer „Seitenschlag“:** Weiter seitlich ausholen, flacher durchschwingen.
+  - **Streitaxt-Grundhaltung „Schulterwacht“:** Die Axt liegt etwas weiter rechts auf der Schulter.
+    Der Axtkopf sitzt so neben dem Kopf statt darin; das gilt für jeden Angriff, der aus dieser
+    Haltung startet.
+- Die Suche berücksichtigt jetzt auch Spitzenziele und Grundhaltungen.
+
 ## 1.39.0 – 2026-10-08
 
 - **Saubere Angriffe: weniger Waffen im eigenen Körper.** Ein neuer Prüfer
