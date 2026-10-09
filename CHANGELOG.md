@@ -1,5 +1,19 @@
 # Änderungsprotokoll
 
+## 1.41.0 – 2026-10-10
+
+- **Sauberes Ausholen bei Überkopf- und Rückhandschlägen.** Die Ausholrichtung wurde jeweils so
+  verschoben, dass die Waffe nicht mehr durch den eigenen Kopf geht:
+  - **Langschwert „Oberhau“:** Ausholen senkrecht nach oben, wie aus der Hut „Vom Tag“, statt schräg
+    nach hinten durch den Kopf.
+  - **Langschwert „Zornhau-Ort“:** Ausholen steiler über dem Kopf.
+  - **Zweihänder „Rückschwung“:** Ausholen und Durchschwung flacher und weiter seitlich. Von vorn
+    gesehen ist das ein klarer waagerechter Schwung von einer Seite zur anderen.
+  - **Streitaxt „Spaltschlag“:** Ausholen weiter seitlich über dem Kopf.
+- Waffenpixel in Kopf oder Rumpf über alle Posen: 556 → 527.
+- Für den Axt-„Schulterhieb“ fand die Suche ein besseres Ziel, aber dabei hing die Axt beim Ausholen
+  unten. Der Hieb bleibt deshalb unverändert.
+
 ## 1.40.0 – 2026-10-09
 
 - **Weniger Waffen im eigenen Körper, Teil 2.** Geprüft mit `tools/durchdringung.py`: Waffenpixel in
